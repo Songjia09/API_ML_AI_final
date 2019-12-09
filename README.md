@@ -8,12 +8,12 @@
 ## PRD 价值主张设计 15%
 ![10479394-2e9e5a4f0e8241e8.png](https://upload-images.jianshu.io/upload_images/9457665-bf8d87a49b998163.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 客户细分：
-- 客户任务列表：能够快速了解每一餐是否是健康饮食，并且能够快速获取菜谱以及一些生活用品。
+- 客户任务列表：能够轻松了解每一餐是否是健康饮食，并且能够快速获取菜谱，又能分享自己的菜谱与他人交流。
 - 痛点：平时做菜时没有热量对照，有时候摄入过多的热量导致了不健康的饮食；有时候做菜没用完全部食材，但又不想吃相同的菜品。
 - 收益：可以轻松了解每一餐热量的摄入，节省了思考不同菜谱的时间。
 #### 价值地图：
 - 产品和服务：菜品识别api、智能推荐。
-- 痛点解决者：用菜品识别api对用户上传的菜品图片进行热量分析；通过智能推荐，为用户提供不同的菜谱。
+- 痛点解决者：用菜品识别api对用户上传的菜品图片进行热量分析；通过智能推荐，为用户提供不同的菜谱和交流社区。
 - 价值创造者：更方便的了解每一餐的热量，更快的寻找相似成分的菜谱。
 ## 加值宣言
 如今健康生活成为了主流，如何才能保证每一餐吃的健康，如何保证一家人摄入的热量达到标准？随着人工智能的发展，能够更方便的实现健康饮食。
@@ -33,7 +33,14 @@ AI概率性考量：使用人工智能的加值的表述是否纳入判断有错
 需求列表：使用人工智能的加值是否反映到需求列表（核心功能的排序上）且PRD列出明显有可行及可用的API
 ## 原型 20%
 ### 原型1.交互及界面设计 5%
-交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
+- 登陆界面：
+![登录.png](https://upload-images.jianshu.io/upload_images/9457665-223c9060efaf5c6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 识别菜品界面：
+![识别.png](https://upload-images.jianshu.io/upload_images/9457665-4a61be4f1e3250de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 社区模块：
+![社区.png](https://upload-images.jianshu.io/upload_images/9457665-dc52e377b44164c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+- 我模块：
+![我.png](https://upload-images.jianshu.io/upload_images/9457665-d2160d40418ef45f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 原型2.信息设计 5%
 信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
 ### 原型3.原型文档 5%
