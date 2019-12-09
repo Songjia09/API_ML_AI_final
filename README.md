@@ -34,13 +34,13 @@ AI概率性考量：使用人工智能的加值的表述是否纳入判断有错
 ## 原型 20%
 ### 原型1.交互及界面设计 5%
 - 登陆界面：
-![登录.png](https://upload-images.jianshu.io/upload_images/9457665-223c9060efaf5c6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![登录](https://images.gitee.com/uploads/images/2019/1210/031806_b41579a8_1532246.png "登录.png")
 - 识别菜品界面：
-![识别.png](https://upload-images.jianshu.io/upload_images/9457665-4a61be4f1e3250de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![识别](https://images.gitee.com/uploads/images/2019/1210/031948_35b9a1d2_1532246.png "识别.png")
 - 社区模块：
-![社区.png](https://upload-images.jianshu.io/upload_images/9457665-dc52e377b44164c2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![社区](https://images.gitee.com/uploads/images/2019/1210/031916_78d6283c_1532246.png "社区.png")
 - 我模块：
-![我.png](https://upload-images.jianshu.io/upload_images/9457665-d2160d40418ef45f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![我](https://images.gitee.com/uploads/images/2019/1210/032045_2c331956_1532246.png "我.png")
 ### 原型2.信息设计 5%
 信息设计：在PRD文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值
 ### 原型3.原型文档 5%
