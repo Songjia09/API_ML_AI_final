@@ -43,22 +43,20 @@
  |  用户在减肥，想要合理安排热量 | 菜品识别api |重要|
 # 原型 20%
 ## 原型1.交互及界面设计 5%
-### 登陆界面：
-![登录](https://images.gitee.com/uploads/images/2019/1210/221954_bb331c73_1532246.png "登录.png")
-### 识别菜品界面：
-![识别](https://images.gitee.com/uploads/images/2019/1210/222023_a50ab85c_1532246.png "识别.png")
+### 识图模块：
+![识图](https://upload-images.jianshu.io/upload_images/9457665-c97071561f36d82f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 社区模块：
-![社区](https://images.gitee.com/uploads/images/2019/1210/222042_4e8d1e34_1532246.png "社区.png")
+![社区](https://upload-images.jianshu.io/upload_images/9457665-402993f9142529db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### “我的”模块：
-![我](https://images.gitee.com/uploads/images/2019/1210/222013_04c55911_1532246.png "我.png")
+![我的](https://upload-images.jianshu.io/upload_images/9457665-c8922167e8311d69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ### 菜谱模块：
-![菜谱](https://images.gitee.com/uploads/images/2019/1210/222005_99e8a664_1532246.png "菜谱.png")
+![菜谱](https://upload-images.jianshu.io/upload_images/9457665-1a6439c3a6180979.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型2.信息设计 5%
 - APP热量识别的功能运用了菜品识别api功能，输入图片，输出文字，实现图文转换。
 - 菜谱及其课程推荐运用了智能推荐功能，获取文字，输出图片及相关信息。
 ## 原型3.原型文档 5%
-[原型文档](http://nfunm035.gitee.io/api/)
-[原型下载](https://gitee.com/nfunm035/API)
+[原型文档](http://nfunm035.gitee.io/api1111/#g=1&p=%E5%85%B3%E6%B3%A8)
+[原型下载](https://gitee.com/nfunm035/api1111)
 
 ## 原型4.口头操作说明 5%
 很多人在吃饭的同时不仅仅想要美味，更想要健康同在。有了健康饮食APP的帮助，轻松快捷就能知道热量是否过多，又或者过少。本产品通过使用百度AI的菜品识别api和阿里云的智能推荐功能，为用户提供方便快捷的热量计算助手。只要随手一拍食物，即可知道热量，同时又能通过这些食物为用户提供感兴趣的菜谱。
