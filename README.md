@@ -164,5 +164,5 @@ Content-Type: application/json;charset=UTF-8
 ### 一段话
 - 本产品可以通过菜品识别API以及计算机视觉为用户提供方便的健康饮食功能。轻松一拍就能知道菜品热量、菜品名称，简单搜索即可知道菜谱做法。轻松、准确保证每一餐的健康绿色。
 ### pechakucha 20x20
-[PPT](https://github.com/Songjia09/API_ML_AI_final/blob/master/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9FAPP.pdf)
-[PPT解说演示](https://pan.baidu.com/play/video#/video?path=%2F%E5%AA%92%E4%BD%931.mp4&t=-1)
+[PPT](https://github.com/Songjia09/API_ML_AI_final/blob/master/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9FAPP(%E5%B8%A6%E8%A7%A3%E8%AF%B4%EF%BC%89.pdf)
+[PPT视频解说演示](https://pan.baidu.com/play/video#/video?path=%2F%E5%AA%92%E4%BD%931.mp4&t=-1)
