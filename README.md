@@ -166,3 +166,5 @@ Content-Type: application/json;charset=UTF-8
 ### pechakucha 20x20
 [PPT](https://github.com/Songjia09/API_ML_AI_final/blob/master/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9FAPP(%E5%B8%A6%E8%A7%A3%E8%AF%B4%EF%BC%89.pdf)
 [PPT视频解说演示](https://pan.baidu.com/play/video#/video?path=%2F%E5%AA%92%E4%BD%931.mp4&t=-1)
+## PPT下载
+[PPT](https://gitee.com/nfunm035/api-PPT/blob/master/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9FAPP.pptx)
